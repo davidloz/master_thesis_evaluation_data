@@ -1,1 +1,3 @@
-# master_thesis_evaluation_data
+# Dolabra evaluation data
+
+This repository contains the example smart contracts used for benchmarking the dolabra tool.
